@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://i.imgur.com/1zsdloF.png",A2Z
+http://ott.udptv.net:80/stream/iptv/a2z/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png",KAPAMILYA
+http://ott.udptv.net:80/stream/iptv/kapamilyachannel/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/ALLTV_Logo_2022.svg/891px-ALLTV_Logo_2022.svg.png",ALLTV
+http://ott.udptv.net:80/stream/iptv/alltv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1920px-GMA_Network_Logo_Vector.svg.png",GMA7
+http://ott.udptv.net:80/stream/iptv/gma/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/GMA_Network_Logo_Vector.svg/1920px-GMA_Network_Logo_Vector.svg.png",GMA7
+https://ln.run/1fZGp
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/866px-GTV_Philippines_Logo_Vector.svg.png",GTV
+http://ott.udptv.net:80/stream/iptv/gtv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/GMA_Life_TV_logo.png/1008px-GMA_Life_TV_logo.png",GMA LIFE TV
+http://ott.udptv.net:80/stream/iptv/gmalifetv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/GMA_News_TV_Logo_Vector.svg/1920px-GMA_News_TV_Logo_Vector.svg.png",GMA NEWS TV
+http://ott.udptv.net:80/stream/iptv/gmanewstv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",GMA PINOY TV
+http://ott.udptv.net:80/stream/iptv/gmapinoytv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/2048px-TV5_%28Philippines%29_logo.svg.png",TV5
+http://ott.udptv.net:80/stream/iptv/tv5hd/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://i.imgur.com/rGAOD3f.png",CINEMO PH
+http://ott.udptv.net:80/stream/iptv/cinemoph/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://i.imgur.com/rGAOD3f.png",CINEMO GLOBAL
+http://ott.udptv.net:80/stream/iptv/cinemoglobal/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png",CINEMA ONE
+http://ott.udptv.net:80/stream/iptv/cinemaoneph/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/512px-Cinema_One_2013_logo.svg.png",CINEMA ONE GLOBAL
+http://ott.udptv.net:80/stream/iptv/cinemaoneglobal/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png",JEEPNEY
+http://ott.udptv.net:80/stream/iptv/jeepneytv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png",PBO
+http://ott.udptv.net:80/stream/iptv/pbo/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Viva_Cinema_2021.png",VIVA CINEMA
+http://ott.udptv.net:80/stream/iptv/vivacinema/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1920px-The_Filipino_Channel_2011_logo.svg.png",TFC ASIA
+http://ott.udptv.net:80/stream/iptv/tfcasia/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://logos-world.net/wp-content/uploads/2020/12/DreamWorks-Animation-Logo.png",DREAMWORK TAGALIZE
+http://ott.udptv.net:80/stream/iptv/dreamworkstagalized/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png",CELESTIAL PINOY MOVIES
+http://ott.udptv.net:80/stream/iptv/celestialmoviespinoy/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://download.logo.wine/logo/HBO/HBO-Logo.wine.png",HBO
+http://ott.udptv.net:80/stream/iptv/hbohd/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",HBO FAMILY
+http://ott.udptv.net:80/stream/iptv/hbofamily/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png",HBO HITS
+http://ott.udptv.net:80/stream/iptv/hbohits/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1280px-HBO_Signature.svg.png",HBO SIGNATURE
+http://ott.udptv.net:80/stream/iptv/hbosignature/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",DISNEY XD
+http://ott.udptv.net:80/stream/iptv/disneyxd/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Disney-Junior-Logo-2020.png",DISNEY JR
+http://ott.udptv.net:80/stream/iptv/disneyjr/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
+http://ott.udptv.net:80/stream/iptv/disneychannel/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",CARTOON NETWORK
+http://ott.udptv.net:80/stream/iptv/cartoonnetwork/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WARNER TV
+http://ott.udptv.net:80/stream/iptv/warnertv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/700px-TMC_logo.svg.png",TMC
+http://ott.udptv.net:80/stream/iptv/tmc/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://cms.cignal.tv/Upload/Images/2_tvNMovies_Pinoy_logo_color_Vertical.png",TVN MOVIES PINOY
+http://ott.udptv.net:80/stream/iptv/tvnmoviespinoy/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",TVN
+http://ott.udptv.net:80/stream/iptv/tvn/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg",THRILL
+http://ott.udptv.net:80/stream/iptv/thrill/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png",TAP TV
+http://ott.udptv.net:80/stream/iptv/taptv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png",TAP SPORT
+http://ott.udptv.net:80/stream/iptv/tapsports/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://tapdmv.ovationproductionsmanila.com/TapMovies/1920x1080_logo_TapMovies.png",TAP MOVIES
+http://ott.udptv.net:80/stream/iptv/tapmovies/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TapEdge-ph.png",TAP EDGE
+http://ott.udptv.net:80/stream/iptv/tapedge/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png",TAP ACTION FLIX
+http://ott.udptv.net:80/stream/iptv/tapactionflix/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/PBA_Rush_logo.png/220px-PBA_Rush_logo.png",PBA RUSH
+http://ott.udptv.net:80/stream/iptv/pbarush/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/d/de/20200728010847%21NBA_TV_Philippines.png",NBA TV PH
+http://ott.udptv.net:80/stream/iptv/nbatvphilippines/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2560px-One_Sports_logo.svg.png",ONE SPORTS
+http://ott.udptv.net:80/stream/iptv/onesports/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/OneSportsPlus_logo.svg/619px-OneSportsPlus_logo.svg.png",ONE SPORTS+
+http://ott.udptv.net:80/stream/iptv/onesports-1/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png",ONE PH
+http://ott.udptv.net:80/stream/iptv/oneph/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png",ONE NEWS
+http://ott.udptv.net:80/stream/iptv/onenews/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://medianet.mv/media/channel/229x0-icon.png",HITS
+http://ott.udptv.net:80/stream/iptv/hits/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://w7.pngwing.com/pngs/202/1015/png-transparent-blockbuster-video-hd-logo.png",KOREAN BLOCKBUSTER
+http://ott.udptv.net:80/stream/iptv/koreanblockbusters/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_161.png",KIX
+http://ott.udptv.net:80/stream/iptv/kix/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://alcgroup.com.ph/wp-content/uploads/2024/10/Aliw-Channel-23-e1729733268662-768x252.png",ALIW TV
+http://ott.udptv.net:80/stream/iptv/aliwtv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://i.imgur.com/odwRbRk.png",ANC
+http://ott.udptv.net:80/stream/iptv/ancph/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png",ANIMAX
+http://ott.udptv.net:80/stream/iptv/animax/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CLTV_logo.png",CLTV 36
+http://ott.udptv.net:80/stream/iptv/cltv36/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Rock_Action.png",ROCK ACTION
+http://ott.udptv.net:80/stream/iptv/rockaction/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Rock_Entertainment.png/800px-Rock_Entertainment.png",ROCK INTERTAINMENT
+http://ott.udptv.net:80/stream/iptv/rockentertainment/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://download.logo.wine/logo/Myx/Myx-Logo.wine.png",MYX PH
+http://ott.udptv.net:80/stream/iptv/myxph/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://download.logo.wine/logo/Myx/Myx-Logo.wine.png",MYX GLOBAL
+http://ott.udptv.net:80/stream/iptv/myxglobal-1/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Logo_MTVPhilippines.PNG",MTV LIVE PH
+http://ott.udptv.net:80/stream/iptv/mtvliveph/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/640px-MTV_90s_2022.svg.png",MTV90's
+http://ott.udptv.net:80/stream/iptv/mtv90s/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Metro_Channel_logo.png/800px-Metro_Channel_logo.png",METRO CHANNEL
+http://ott.udptv.net:80/stream/iptv/metrochannel/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/IBC_13_Logo_2011.svg/1200px-IBC_13_Logo_2011.svg.png",IBC 13
+http://ott.udptv.net:80/stream/iptv/ibc13/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png",HISTORY
+http://ott.udptv.net:80/stream/iptv/history/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Knowledge_Channel_logo.png",KNOWLEDGE CHANNEL
+http://ott.udptv.net:80/stream/iptv/knowledgechannel/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png",ARIRANG
+http://ott.udptv.net:80/stream/iptv/arirang/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DZRH_logo_2021.png",DZRH TV
+http://ott.udptv.net:80/stream/iptv/dzrhtv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://download.logo.wine/logo/CNN/CNN-Logo.wine.png",CNN
+http://ott.udptv.net:80/stream/iptv/cnn/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/2560px-UNTV-Logo-2016.svg.png",UNTV
+http://ott.udptv.net:80/stream/iptv/untv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/2560px-TeleRadyo_Serbisyo_logo.svg.png",TELERADYO SERBISYO
+http://ott.udptv.net:80/stream/iptv/teleradyoserbisyo/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/d/d4/SMNI.png",SMNI
+http://ott.udptv.net:80/stream/iptv/smni/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/Scream_Flix_Logo_2022.png",SCREAM FLIX
+http://ott.udptv.net:80/stream/iptv/screamflix/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Sari-Sari_Channel_logo.svg/800px-Sari-Sari_Channel_logo.svg.png",SARI-SARI
+http://ott.udptv.net:80/stream/iptv/sarisari/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/21/RPTV_Vector_Logo_2024.png",RPTV
+http://ott.udptv.net:80/stream/iptv/rptv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/PTVLogo2017.png",PTV
+http://ott.udptv.net:80/stream/iptv/ptv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Net252020.png",NET 25
+http://ott.udptv.net:80/stream/iptv/net25/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png",LOTUS MACAU
+http://ott.udptv.net:80/stream/iptv/lotusmacau/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
+#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="jayAR" tvg-logo="https://static.wixstatic.com/media/3f6f0d_ab7b0ed79ba7476cb9522381586d4d0f~mv2.png/v1/fill/w_244,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/JungoPinoy_BrandLogo.png",JUGO PINOY TV
+http://ott.udptv.net:80/stream/iptv/jugopinoytv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859

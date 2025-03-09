@@ -14,8 +14,6 @@ http://143.44.136.112:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1920px-The_Filipino_Channel_2011_logo.svg.png",TFC ASIA
-http://ott.udptv.net:80/stream/iptv/tfcasia/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/gma.png" group-title="",GMA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -41,13 +39,12 @@ http://143.44.136.112:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
-#EXTINF:-1 tvg-id="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",CELESTIAL PINOY MOVIES
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="",CINEMO!
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
 https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://i.imgur.com/rGAOD3f.png",CINEMO GLOBAL
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png",CINEMO GLOBAL
 http://ott.udptv.net:80/stream/iptv/cinemoglobal/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Pinoy_Box_Office_logo.svg/1200px-Pinoy_Box_Office_logo.svg.png" group-title="",PBO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -59,33 +56,36 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
 http://143.44.136.112:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://logo.iptveditor.com/cinemaone.png",CINEMA ONE GLOBAL
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://logo.iptveditor.com/cinemaone.png",CINEMA ONE GLOBAL
 http://ott.udptv.net:80/stream/iptv/cinemaoneglobal/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="",Viva Cinema
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://cmpinoy.com.ph/storage/images/c4ca4238a0b923820dcc509a6f75849b/c/logo-og_image.png",CELESTIAL PINOY MOVIES
+http://ott.udptv.net:80/stream/iptv/celestialmoviespinoy/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="",Tagalized Movie Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://static.wixstatic.com/media/3f6f0d_ab7b0ed79ba7476cb9522381586d4d0f~mv2.png/v1/fill/w_244,h_124,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/JungoPinoy_BrandLogo.png",JUGO PINOY TV
-http://ott.udptv.net:80/stream/iptv/jugopinoytv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/cartoonnet.png" group-title="",Cartoon Net Hd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",DISNEY XD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_Disney_XD.png",DISNEY XD
 http://ott.udptv.net:80/stream/iptv/disneyxd/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Disney-Junior-Logo-2020.png",DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://1000logos.net/wp-content/uploads/2022/01/Disney-Junior-Logo-2020.png",DISNEY JR
 http://ott.udptv.net:80/stream/iptv/disneyjr/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
 http://ott.udptv.net:80/stream/iptv/disneychannel/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://logo.iptveditor.com/animax.png",ANIMAX
-http://ott.udptv.net:80/stream/iptv/animax/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/animax.png" group-title="",Animax
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MoonbugKids.png" group-title="",Moonbug Kids
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -161,20 +161,16 @@ http://143.44.136.112:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://cms.cignal.tv/Upload/Images/2_tvNMovies_Pinoy_logo_color_Vertical.png",TVN MOVIES
-http://ott.udptv.net:80/stream/iptv/tvnmoviespinoy/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png",TVN
-http://ott.udptv.net:80/stream/iptv/tvn/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="",Cg Tvnmovie
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
-https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="",CRIME & INVESTIGATION
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="",Cg Tvnmovie
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png" group-title="",Tap Action Flix
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -190,8 +186,11 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png",PH WARNER TV
-http://ott.udptv.net:80/stream/iptv/warnertv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="",Warnertv Hd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231393338393034323331373536:6b75304a3061326f78593545384f3165
+http://143.44.136.112:6910/001/2/ch00000090990000001096/manifest.mpd?virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PR9DbtR.png" group-title="",ROCK ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -227,12 +226,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-ab
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363736333231333532323639:396c467233356c357355497565533536
 http://143.44.136.112:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/MyxGlobalLogo.png",MYX GLOBAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Myx/Myx-Logo.wine.png",MYX GLOBAL
 http://ott.udptv.net:80/stream/iptv/myxglobal-1/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Logo_MTVPhilippines.PNG",MTV LIVE PH
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/640px-MTV_90s_2022.svg.png",MTV90's
-http://ott.udptv.net:80/stream/iptv/mtv90s/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/anc.png" group-title="",ANC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -335,8 +330,11 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031313938:715a36614f62445635304852794b3676
 http://143.44.136.112:6910/001/2/ch00000090990000001075/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" tvg-name="" group-title="JR" tvg-logo="" tvg-logo="https://logo.iptveditor.com/arirang.png",ARIRANG
-http://ott.udptv.net:80/stream/iptv/arirang/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/arirang.png" group-title="",ARIRANG
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/asianfoodnetwork.png" group-title="",Asianfoodnetwork
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

@@ -157,7 +157,7 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
-#EXTINF:-1 tvg-id="https://archive.org/download/tmp_2132-PPV-1995671218/__ia_thumb.jpg" group-title="JOEL REYN LOCAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png",TAP TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png",TAP TV
 http://ott.udptv.net:80/stream/iptv/taptv/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png",TAP SPORT
 http://ott.udptv.net:80/stream/iptv/tapsports/master.m3u8?u=civ3&p=62278b4ff378172012f0fa4b0950ca4a6602b07485651181385d4616936cf859

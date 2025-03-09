@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/a2z.png" group-title="",a2z Channel 11
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/a2z.png" group-title="",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
@@ -9,7 +9,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
 http://143.44.136.112:6910/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/kapamilyachannel.png" group-title="",Kapamilya Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/kapamilyachannel.png" group-title="",KAPAMILYA CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
@@ -29,7 +29,7 @@ http://143.44.136.112:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313534353138343339333732:3970705738596631374f54324c384f57
 http://143.44.136.112:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png" group-title="",Jeepney TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/1200px-Jeepney_TV_Logo_2015.svg.png" group-title="",JEEPNEY TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363735363832333531363036:723548436f6e34333961586150756649
@@ -49,12 +49,12 @@ https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/cinemaone.png" group-title="",Cinema One
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/cinemaone.png" group-title="",CINEMA ONE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
 http://143.44.136.112:6910/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="",Viva Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png/revision/latest?cb=20210804092616" group-title="",VIVA CINEMA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
@@ -64,12 +64,12 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/cartoonnet.png" group-title="",Cartoon Net Hd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/cartoonnet.png" group-title="",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/animax.png" group-title="",Animax
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/animax.png" group-title="",ANIMAX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
@@ -89,52 +89,52 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233343133343534323335373438:75467735704170524847774a63594361
 http://143.44.136.112:6910/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="",DREAMWORKS HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="",DREAMWORKS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="",Dreamworks Tag
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beindreamwork.png" group-title="",Dreamworks Tagalog
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/hbohd.png" group-title="",cg Hbohd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/hbohd.png" group-title="",HBO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/hbohits.png" group-title="",cg Hbohits
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/hbohits.png" group-title="",HBO HITS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="",cg Hbosign
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="",HBO SGNATURE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="",cg Hbofam
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/hbofamily.png" group-title="",HBO FAMILY
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="",Cg Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="",CINEMAX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b9/Hits_Movies_Logo_2018.png" group-title="",Hits Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b9/Hits_Movies_Logo_2018.png" group-title="",HITS MOVIES
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_hitsmovies.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d0/HITS_logo.png/revision/latest/scale-to-width-down/530?cb=20220323123225&path-prefix=vi" group-title="",Hits Hd
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d0/HITS_logo.png/revision/latest/scale-to-width-down/530?cb=20220323123225&path-prefix=vi" group-title="",HITS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits%20Now.png" group-title="",Cg Hitsnow
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits%20Now.png" group-title="",HITS NOW
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
@@ -144,7 +144,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353337323935353433383639:696d305237483130677335756d643933
 http://143.44.136.112:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="",Cg Tvnpre
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="",TVNPRE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
@@ -154,7 +154,7 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="",Cg Tvnmovie
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="",TVN MOVIE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
@@ -174,7 +174,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="",Warnertv Hd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png" group-title="",WARNER TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393338393034323331373536:6b75304a3061326f78593545384f3165
@@ -184,7 +184,7 @@ http://143.44.136.112:6910/001/2/ch00000090990000001096/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/pbarush.png" group-title="",Pbarush Hd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/pbarush.png" group-title="",PBA RUSH
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
@@ -199,7 +199,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png" group-title="",Oneph
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/1200px-OnePHCignal.svg.png" group-title="",OnePH
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
@@ -224,22 +224,27 @@ http://143.44.136.112:6910/001/2/ch00000090990000001274/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png" group-title="",OneSportsPlus
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/onesports.png" group-title="",One Sports
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="",Onenews Hd
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/OneNewsPH_logo.svg/1200px-OneNewsPH_logo.svg.png" group-title="",OneNEWS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="",PREMIERSPORTS1
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i1njy1x.png" group-title="",PREMIER SPORTS1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313130333638323933383631:7031306148395845396e32374369485a
 http://143.44.136.112:6910/001/2/ch00000090990000001135/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9f/Premier_Sports_2_Logo_2022.png/revision/latest/scale-to-width-down/260?cb=20220402054645" group-title="",PREMIERSPORTS2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9f/Premier_Sports_2_Logo_2022.png/revision/latest/scale-to-width-down/260?cb=20220402054645" group-title="",PREMIER SPORTS2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233383335303430363337303331:4444313067453278686a4b6b7030494b
@@ -259,7 +264,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/history.png" group-title="",HISTORY HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/history.png" group-title="",HISTORY
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
@@ -274,7 +279,7 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="",DISCOVERY CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="",DISCOVERY CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323330323736303433313938:6774487273654e4b313631333258706f
@@ -291,12 +296,12 @@ http://143.44.136.112:6910/001/2/ch00000090990000001243/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323239393136303432373230:3132373248597249506d6e31326c3246
 http://143.44.136.112:6910/001/2/ch00000090990000001182/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/bbcearth.png" group-title="",Bbcearth Hd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/bbcearth.png" group-title="",BBC EARTH
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/bbcworldnews.png" group-title="",Bbcworld News
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/bbcworldnews.png" group-title="",BBC WORLD NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
@@ -306,12 +311,12 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="",KIX HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="",Lifetime
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/2560px-Logo_Lifetime_2020.svg.png" group-title="",LIFETIME
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031313938:715a36614f62445635304852794b3676
@@ -321,7 +326,7 @@ http://143.44.136.112:6910/001/2/ch00000090990000001075/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/asianfoodnetwork.png" group-title="",Asianfoodnetwork
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/asianfoodnetwork.png" group-title="",AsianFoodNetwork
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
@@ -331,12 +336,12 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="",ROCK EXTREME HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="",ROCK EXTREME
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/buko.png" group-title="",Buko
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/buko.png" group-title="",BUKO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
@@ -351,7 +356,7 @@ http://143.44.136.112:6910/001/2/ch00000090990000001090/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231393132323937323234333139:74516e7a4f3472713651316233425841
 http://143.44.136.112:6910/001/2/ch00000090990000001092/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png" group-title="",METRO CHANNEL HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/c/c4/Metro_Channel_White_Logo_2018.png" group-title="",METRO CHANNEL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363334313133373731323334343436:673478506852336979544a4f38475479
@@ -376,21 +381,16 @@ https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/cg_spotvhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="",HGTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1280px-HGTV_logo.png" group-title="",HGTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8d/MPTV_Logo_2023.png" group-title="",Cg Mptv
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/8d/MPTV_Logo_2023.png" group-title="",MPTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/One_Sports_plus_logo.png" group-title="",Onesportsplus Hd
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
-https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e5/TeleRadyo_Serbisyo_3D_Logo_2023.png" group-title="",TeleRadyo Serbisyo
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -446,7 +446,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tv5_monde.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735373539353634323837313330:45697656385434514879435648537855
 http://143.44.136.112:6910/001/2/ch00000090990000001328/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png" group-title="",Abc Australia
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/ABC_HD_Australia_logo.png" group-title="",ABC Australia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
@@ -456,12 +456,12 @@ https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232353336313933353432383534:51313339385a5a446a454c3132646b63
 http://143.44.136.112:6910/001/2/ch00000090990000001145/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/fashiontv.png" group-title="",Fashiontv Hd
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/fashiontv.png" group-title="",Fashion TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/euronews.png" group-title="",EURONEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/euronews.png" group-title="",EURO NEWS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363735313530303738343234333832:354142586b7673585570716e35514a35

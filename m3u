@@ -167,29 +167,19 @@ http://ott.udptv.net:80/stream/iptv/tvnmoviespinoy/master.m3u8?u=civ3&p=673b29c3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png",TAP TV
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://i.imgur.com/KJaSftF.png",TAP TV
 http://ott.udptv.net:80/stream/iptv/taptv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png",TAP SPORT
 http://ott.udptv.net:80/stream/iptv/tapsports/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://tapdmv.ovationproductionsmanila.com/TapMovies/1920x1080_logo_TapMovies.png",TAP MOVIES
 http://ott.udptv.net:80/stream/iptv/tapmovies/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://static.wikia.nocookie.net/russel/images/5/57/TAP_Edge_Logo_November_2020.png",TAP EDGE
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TapEdge-ph.png",TAP EDGE
 http://ott.udptv.net:80/stream/iptv/tapedge/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/b/b3/TAP_Action_Flix_Logo_2021.png" group-title="",Tap Action Flix
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="",TAP TV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="",ROCK EXTREME HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" group-title="",THRILL
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -197,9 +187,13 @@ https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",SCREAM FLIX
 http://ott.udptv.net:80/stream/iptv/screamflix/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",WARNER TV
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png",WARNER TV
 http://ott.udptv.net:80/stream/iptv/warnertv/master.m3u8?u=civ3&p=673b29c3c96ef6b81971b748cdf0e46d531b3c6690c885706e02b469ba8b14ca
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-logo="https://clipground.com/images/philippines-flag-free-clipart-11.png",PH SCREAM FLIX
+#EXTINF:-1 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="",ROCK EXTREME HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PR9DbtR.png" group-title="",ROCK ENTERTAINMENT
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
